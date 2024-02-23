@@ -16,7 +16,7 @@ Environment Setup and How to Install and Run the Project
 # 1.Create and clone repository to VSCode
     datafun-07-applied.ipynb
 # 2. Clone the repository to your local machine.
-   git clone 
+   git clone https://github.com/hanenia/datafun-07-applied/tree/main
 # 3. Create and Activate Virtual Environment
    source .venv/bin/activate
 # 4. Create a Project Virtual Environment in the .venv folder.
